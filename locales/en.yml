@@ -4,7 +4,7 @@ home:
     favoriteTools: 'Your favorite tools'
     allTools: 'All the tools'
     favoritesDndToolTip: 'Drag and drop to reorder favorites'
-  subtitle: 'Handy tools for developers'
+  subtitle: '助力开发者'
   toggleMenu: 'Toggle menu'
   home: Home
   uiLib: 'UI Lib'
@@ -29,26 +29,16 @@ home:
     mode: 'Toggle dark/light mode'
 about:
   content: >
-    # About IT-Tools
+    # Welcome to ruoyi-tools
 
-    This wonderful website, made with ❤ by [Corentin Thomasset](https://corentin.tech?utm_source=it-tools&utm_medium=about) , aggregates useful tools for developer and people working in IT. If you find it useful, please feel free to share it to people you think may find it useful too and don't forget to bookmark it in your shortcut bar!
+    ruoyi-tools is an online toolbox for developers and IT workers, maintained by JiekerTime.
 
+    For questions or suggestions: [zhangjunjie@apache.org](mailto:zhangjunjie@apache.org)
 
-    ## Technologies
+    ## Tech Stack
 
-    IT Tools is made in Vue.js (Vue 3) with the the Naive UI component library and is hosted and continuously deployed by Vercel. Third-party open-source libraries are used in some tools, you may find the complete list in the [package.json](https://github.com/CorentinTh/it-tools/blob/main/package.json) file of the repository.
+    Built with Vue.js 3 and Naive UI, open-source under GPL-3.0.
 
-    ## Found a bug? A tool is missing?
-
-    If you need a tool that is currently not present here, and you think can be useful, you are welcome to submit a feature request in the [issues section](https://github.com/CorentinTh/it-tools/issues/new/choose) in the GitHub repository.
-
-    And if you found a bug, or something doesn't work as expected, please file a bug report in the [issues section](https://github.com/CorentinTh/it-tools/issues/new/choose) in the GitHub repository.
-
-404:
-  notFound: '404 Not Found'
-  sorry: 'Sorry, this page does not seem to exist'
-  maybe: 'Maybe the cache is doing tricky things, try force-refreshing?'
-  backHome: 'Back home'
 favoriteButton:
   remove: 'Remove from favorites'
   add: 'Add to favorites'

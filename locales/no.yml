@@ -4,7 +4,7 @@ home:
     favoriteTools: 'Dine favoritt verktøy'
     allTools: 'Alle verktøyene'
     favoritesDndToolTip: 'Dra og slipp for å omordne favoritter'
-  subtitle: 'Nyttige verktøy for utviklere'
+  subtitle: '助力开发者'
   toggleMenu: 'Vekslemenmy'
   home: Hjem
   uiLib: 'UI Bib'
@@ -29,26 +29,16 @@ home:
     mode: 'Veksle mørk/lys modus'
 about:
   content: >
-    # Om IT-Tools
+    # Welcome to ruoyi-tools
 
-    Denne vidunderlige nettsiden, laget med ❤ av [Corentin Thomasset](https://corentin.tech?utm_source=it-tools&utm_medium=about) , sammenstiller nyttige verktøy for utviklere og folk som jobber innen IT. Hvis du finner dette nyttig, Del det gjerne med andre som du tror kan få nytte av dette, og ikke glem å lage et bokmerke!
+    ruoyi-tools is an online toolbox for developers and IT workers, maintained by JiekerTime.
 
+    For questions or suggestions: [zhangjunjie@apache.org](mailto:zhangjunjie@apache.org)
 
-    ## Teknologier
+    ## Tech Stack
 
-    IT Tools er laget i Vue.js (Vue 3) med Naive UI komponent bibliotektet og er hosted og kontinuerlig deployet av Vercel. Tredjeparts åpen-kildekode biblioteker er brukt i noen verktøy, du kan finne den komplette listen i [package.json](https://github.com/CorentinTh/it-tools/blob/main/package.json) filen i depoet.
+    Built with Vue.js 3 and Naive UI, open-source under GPL-3.0.
 
-    ## Funnet en feil? Et verktøy som mangler?
-
-    Hvis du trenger et verktøy som foreløpig ikke er tilgjengelig her, og du tenker det kan være nyttig for andre, så er du velkommen til å legge til en funksjonsforespørsel i [problem seksjonen](https://github.com/CorentinTh/it-tools/issues/new/choose) i github-depotet.
-
-    Og hvis du har funnet en feil, eller noe ikke oppfører seg som forventet, vennligst send inn en feilrapport i [problem seksjonen](https://github.com/CorentinTh/it-tools/issues/new/choose) i github-depotet.
-
-404:
-  notFound: '404 ikke funnet'
-  sorry: 'Beklager, denne siden ser ikke ut til å eksistere'
-  maybe: 'Kanskje informasjonskapslene oppfører seg rart, prøvd en tvungen oppfriskning?'
-  backHome: 'Tilbake til start'
 favoriteButton:
   remove: 'Fjern fra favoritter'
   add: 'Legg til favoritter'
