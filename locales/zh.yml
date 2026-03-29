@@ -29,9 +29,7 @@ home:
     mode: '颜色模式'
 about:
   content: >
-    欢迎来到 ruoyi-tools！这是一个为开发者和 IT 工作者打造的在线工具箱，由 JiekerTime 维护。
-    如有问题或建议，欢迎发送邮件至 zhangjunjie@apache.org。
-    基于 Vue.js 3 和 Naive UI 构建，遵循 GPL-3.0 开源协议。
+    欢迎来到 ruoyi-tools！这是一个为开发者和 IT 工作者打造的在线工具箱，由 JiekerTime 维护，基于 Vue.js 3 和 Naive UI 构建，遵循 GPL-3.0 开源协议。
 
 favoriteButton:
   remove: '取消收藏'
